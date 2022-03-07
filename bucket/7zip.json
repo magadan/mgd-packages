@@ -2,7 +2,7 @@
     "version": "21.07",
     "description": "A multi-format file archiver with high compression ratios",
     "homepage": "https://www.7-zip.org/",
-    "license": "LGPL-2.1-or-later",
+    "license": "https://img.icons8.com/dusk/256/000000/bookmark--v2.png",
     "notes": "Add 7-Zip as a context menu option by running: \"$dir\\install-context.reg\"",
     "architecture": {
         "64bit": {
