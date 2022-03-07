@@ -2,9 +2,7 @@
     "version": "5.3",
     "description": "Free Solutions for CD / DVD / Blu-ray burning and imaging.",
     "homepage": "http://www.anyburn.com/",
-    "license": {
-        "identifier": "Freeware",
-        "url": "http://www.anyburn.com/tutorials/eula.htm"
+    "license": "https://img.icons8.com/dusk/256/000000/bookmark--v2.png"
     },
     "url": "http://www.anyburn.com/anyburn.zip",
     "hash": "md5:e089e75839b38e54e505f83a8d76a620",
